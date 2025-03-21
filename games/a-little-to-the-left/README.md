@@ -16,6 +16,9 @@ This is a minor bug that affects the player experience while moving the eraser o
 **Reproducible**: Yes  
 **Frecuency**: 5/5  
 
+**Report Date**: 23/3/2025  
+**Bug Reporter:** Agustina Ravanedo  
+
 ---
 
 ### How to Reproduce the Error
@@ -45,8 +48,8 @@ As the issue tends to appear while the eraser come across near the edges, it wou
 
 ---
 
-### Additional Information
-**Report Date**: 23/3/2025  
+
+
 ![Vista previa del bug](https://raw.githubusercontent.com/agustinarav/bug-report-collection/refs/heads/main/games/a-little-to-the-left/TC-ALTTL.gif)
 
 
