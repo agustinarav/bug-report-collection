@@ -1,6 +1,8 @@
 # Performance and Functional Bug Report for 'A Little to the Left' (Android Mobile)
 
-## Problem Description
+## Title:  The eraser stops unpredictably across different levels in 'A Little to the Left' 
+
+### Problem Description
 Issue in the 'Pista' feature across different levels when using the eraser. The erase across different levels in the 'Pista' feature stops randomly and unpredictably with circular and long movements on the screen. It also seems to have issues near the edges of the screen.
 This is a minor bug that affects the player experience while moving the eraser on the screen.This report details the bug and provides visual evidence through a video showing the problem.
 
